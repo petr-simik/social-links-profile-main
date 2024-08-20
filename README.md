@@ -1,6 +1,6 @@
 # Social links profile
 
-## [Live Demo](https://qsoftin.github.io/social-links-profile-main/)
+## [Live Demo](https://petr-simik.github.io/social-links-profile-main/)
 
  Challenge from Frontend Mentor - Social links profile
 
